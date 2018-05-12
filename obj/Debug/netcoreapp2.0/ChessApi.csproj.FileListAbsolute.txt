@@ -1,0 +1,11 @@
+/Users/koji/Repositories/chess+/ChessApi/bin/Debug/netcoreapp2.0/ChessApi.deps.json
+/Users/koji/Repositories/chess+/ChessApi/bin/Debug/netcoreapp2.0/ChessApi.runtimeconfig.json
+/Users/koji/Repositories/chess+/ChessApi/bin/Debug/netcoreapp2.0/ChessApi.runtimeconfig.dev.json
+/Users/koji/Repositories/chess+/ChessApi/bin/Debug/netcoreapp2.0/ChessApi.dll
+/Users/koji/Repositories/chess+/ChessApi/bin/Debug/netcoreapp2.0/ChessApi.pdb
+/Users/koji/Repositories/chess+/ChessApi/obj/Debug/netcoreapp2.0/ChessApi.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/chess+/ChessApi/obj/Debug/netcoreapp2.0/ChessApi.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/chess+/ChessApi/obj/Debug/netcoreapp2.0/ChessApi.AssemblyInfoInputs.cache
+/Users/koji/Repositories/chess+/ChessApi/obj/Debug/netcoreapp2.0/ChessApi.AssemblyInfo.cs
+/Users/koji/Repositories/chess+/ChessApi/obj/Debug/netcoreapp2.0/ChessApi.dll
+/Users/koji/Repositories/chess+/ChessApi/obj/Debug/netcoreapp2.0/ChessApi.pdb
